@@ -1,14 +1,18 @@
 {
   "name": "knex-list-db-table",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "description": "show databases and show tables for knex and mysql",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node demo/index"
   },
-  "author": "qinghai@gmail.com",
+  "author": "noteon@gmail.com",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:noteon/knex-list-db-table.git"    
+  },
   "dependencies": {
   },
   "devDependencies": {
