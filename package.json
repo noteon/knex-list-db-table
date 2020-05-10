@@ -11,14 +11,13 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:noteon/knex-list-db-table.git"    
+    "url": "git@github.com:noteon/knex-list-db-table.git"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "dburi2config": "^0.1.0",
-    "knex": "^0.11.7",
-    "mysql": "^2.11.1",
-    "lodash": "^4.13.1"
+    "dburi2config": "^0.1.3",
+    "knex": "^0.21.1",
+    "lodash": "^4.17.15",
+    "mysql": "^2.18.1"
   }
 }
